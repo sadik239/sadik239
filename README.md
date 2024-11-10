@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Md Sadikur Rahman
 #### I am Digital Marketer And Graphics Designer
-![I am Digital Marketer And Graphics Designer]
 
 I created a simple, fun project that helps you make clean and stylish GitHub Readme files to enhance your profile. Copy, paste, and customize to make your GitHub stand out!
 
